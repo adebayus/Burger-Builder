@@ -1,5 +1,9 @@
 # Getting Started with Create React App
 
+## Preview Dekstop Mode and Mobile mode
+![Alt text](./images/Mobile.png?raw=true "Mobile")
+![Alt text](./images/Dekstop.png?raw=true "Dekstop")
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
