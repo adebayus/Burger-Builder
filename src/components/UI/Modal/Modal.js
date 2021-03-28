@@ -7,7 +7,8 @@ import Backdrop from '../Backdrop/Backdrop'
 function Modal(props) {
     return (
 		<Auxiliary>
-            <Backdrop show={props.show} ordered={props.ordered}/>
+			{console.log("[withError] Modal Mount")}
+			<Backdrop show={props.show} ordered={props.ordered} />
 			<div
 				className={classes.Modal}
 				style={{

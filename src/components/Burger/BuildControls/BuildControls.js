@@ -2,7 +2,7 @@ import React from 'react'
 import BuildControl from './BuildControl/BuildControl'
 import classes from './BuildControls.module.css'
 function BuildControls(props) {
-    console.log(props.ordered)
+    // console.log(props.ordered)
     const controls = [
         {
             label : "Salad",
